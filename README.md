@@ -7,9 +7,7 @@ This is a Gym Management System designed to help gym owners and managers efficie
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
